@@ -3,8 +3,10 @@
 
 ## 前提
 
-- gensimが入っている
-- ~/data/recipe_steps.bin がある
+- scikit-learn, gensimが入っている
+- 以下の学習済みモデルがある
+  - ~/data/wikipedia.bin
+  - ~/data/recipe_steps.bin
 
 ## notebook 起動
 
