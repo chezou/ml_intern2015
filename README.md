@@ -1,10 +1,10 @@
 # ml_intern2015
 Cookpad 2015年サマーインターンの実習課題置き場です。
 
-## 前提
+## Requirements
 
-- scikit-learn, gensimが入っている
-- 以下の学習済みword2vecモデルがある
+- Python 2 with scikit-learn, gensim
+- Learned word2vec models as following
   - ~/data/wikipedia.bin
   - ~/data/recipe_steps.bin
 
